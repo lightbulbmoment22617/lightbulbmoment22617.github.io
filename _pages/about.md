@@ -1,14 +1,14 @@
 ---
 title: " "
 header:
-  overlay_image: /assets/images/utah.jpg
-  caption: "Photo Credit: **Kathleen Finlinson**"
+  overlay_image: /assets/images/appleton.jpg
+  caption: "Appleton Tower, University of Edinburgh"
 permalink: /about/
 ---
 
 # About Me
 
-<img src="{{ "/assets/images/routeburn.jpg" | absolute_url }}"
+<img src="{{ "/assets/images/hackathon.jpg" | absolute_url }}"
 width="50%" hspace="20" align="right">
   
 I am currently in the final year of my BSc in Computer Science and Mathematics at the University of Edinburgh. Over the course of my degree I have found myself gravitating towards areas of applied statistics - you could call it data science or machine learning or whatever you like. I hope to have a career in this very broad field which means the current next stepping stone for me is a postgraduate degree in some quantitative area.
@@ -19,7 +19,7 @@ A fellow Edinburgh student and I, along with two of our friends from the Univers
 
 I also enjoy fooling around with data and trying my best to keep up with the state of the art in machine learning (although this often feels impossible).
 
-My [CV] includes some more technical info on me.
+My [CV][1] includes some more technical info on me.
 
 
 [1]: /assets/docs/CV.pdf

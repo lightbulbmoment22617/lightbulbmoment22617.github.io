@@ -11,7 +11,7 @@ var idx = lunr(function () {
     
       this.add({
           title: " ",
-          excerpt: "classes: wide header: overlay_image: /assets/images/tools.jpg caption: “Photo credit: Ricky Kharawala” permalink: /portfolio/index.html date: 2018-01-07 Portfolio Here are a few selected...",
+          excerpt: "Portfolio Here are a few selected projects of mine. To have a look at them feel free to follow the...",
           categories: [],
           tags: [],
           id: 0
@@ -35,7 +35,7 @@ var store = [
       {
         "title": " ",
         "url": "http://localhost:4000/portfolio/index.html",
-        "excerpt": "classes: wide header: overlay_image: /assets/images/tools.jpg caption: “Photo credit: Ricky Kharawala” permalink: /portfolio/index.html date: 2018-01-07 Portfolio Here are a few selected...",
+        "excerpt": "Portfolio Here are a few selected projects of mine. To have a look at them feel free to follow the...",
         "teaser":
           
             null
