@@ -3,7 +3,7 @@
 title: "sharanm.dev"
 name: "sharanm.dev"
 email: sharan98m@gmail.com
-url: "" #"http://www.pwills.com"
+url: "https://www.sharanm.dev/" 
 repository: "lightbulbmoment22617/lightbulbmoment22617.github.io"
 
 include:
@@ -31,7 +31,7 @@ minimal_mistakes_skin: "dirt"
 author:
   name   : "Sharan Maiya"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I'm an undergraduate studying CS+Maths interested in stats, ML and data."
+  bio    : "I'm an undergraduate studying CS + Maths in the UK. I'm interested in stats, machine learning and all things data."
   location: "Edinburgh, Scotland"
   github : lightbulbmoment22617
   linkedin: sharanmaiya

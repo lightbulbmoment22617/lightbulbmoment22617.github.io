@@ -6,11 +6,9 @@ header:
 permalink: /portfolio/index.html
 date: 2019-10-13
 ---
-# Portfolio
+# Projects
 
-Here are a few selected projects of mine. To have a look at them feel free to follow the links to relevant Devposts / GitHub. If you want to ask me about any of them, feel free to [email me][2].
-
-You can also read my CV [here][1].
+Here are a few examples of projects I have worked on in the past. 
 
 # INCOMPLETE
 
