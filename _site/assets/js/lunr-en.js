@@ -11,7 +11,7 @@ var idx = lunr(function () {
     
       this.add({
           title: " ",
-          excerpt: "Projects\n\nHere are a few examples of projects I have worked on in the past.\n\nINCOMPLETE\n\n\n\n",
+          excerpt: "Projects Here are a few examples of projects I have worked on in the past. IoTea: Oxford Hack 2017 At...",
           categories: [],
           tags: [],
           id: 0
@@ -35,7 +35,7 @@ var store = [
       {
         "title": " ",
         "url": "http://localhost:4000/portfolio/index.html",
-        "excerpt": "Projects\n\nHere are a few examples of projects I have worked on in the past.\n\nINCOMPLETE\n\n\n\n",
+        "excerpt": "Projects Here are a few examples of projects I have worked on in the past. IoTea: Oxford Hack 2017 At...",
         "teaser":
           
             null
